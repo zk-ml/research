@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/zk-ml/linear-a-site/main/logo/linear-a-logo.png width=64/> research: repository for Linear A machine learning system researches & presentations
+<img src=https://raw.githubusercontent.com/zk-ml/linear-a-site/main/logo/linear-a-logo.png width=64/> research: repository for Linear A machine learning system research & presentations
 
 ---------------
 
